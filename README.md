@@ -89,5 +89,4 @@ frontend/  React app, Zustand store, components
 - Group chats & message search
 - Push notifications / service workers
 
-Feel free to open issues or PRs if you extend the project!
 
